@@ -8,4 +8,4 @@ Right now I'm working on what I call an "art game". It's an RPG.
 カナダに住んでいます。
 ツイーター → [@ekecheirion](https://twitter.com/ekecheirion).
 
-最近、「アートゲーム」を作ってます。RPGです。
+最近、アートゲームを作ってます。RPGです。
